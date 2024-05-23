@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57be5423-96af-4149-9b8a-c5a5ede3f4aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/session3/exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session3/exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session3/exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session3/exercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session3/exercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session3/exercise6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session3/exercise7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session3/exercise8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session3/exercise9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session3/exercise10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session4/bai1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session4/bai1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session4/bai2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session4/bai2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session4/bai5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session4/bai5/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +46,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -73,6 +73,10 @@
       <workItem from="1715524237945" duration="7096000" />
       <workItem from="1715601899347" duration="1807000" />
       <workItem from="1715693116769" duration="14657000" />
+      <workItem from="1715889834745" duration="156000" />
+      <workItem from="1715945491846" duration="1303000" />
+      <workItem from="1716133401835" duration="4710000" />
+      <workItem from="1716369940826" duration="6152000" />
     </task>
     <servers />
   </component>
