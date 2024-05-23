@@ -5,14 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57be5423-96af-4149-9b8a-c5a5ede3f4aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session3/exercise10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session4/bai1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session4/bai1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session4/bai2/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session4/bai2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session4/bai5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session4/bai5/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session5/exercise1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session5/exercise1/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session5/exercise1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session5/exercise2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session5/exercise2/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session5/exercise2/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session5/exercise3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session5/exercise3/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session5/exercise3/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session5/exercise4/ArrayCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session5/exercise4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +40,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2gBgyU2V3V4lYSZb8jFzkcF6gIF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -77,6 +82,7 @@
       <workItem from="1715945491846" duration="1303000" />
       <workItem from="1716133401835" duration="4710000" />
       <workItem from="1716369940826" duration="6152000" />
+      <workItem from="1716489089806" duration="4751000" />
     </task>
     <servers />
   </component>
